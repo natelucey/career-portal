@@ -32,9 +32,9 @@
   "maxUploadSize": 5242880,
   "service": {
     "batchSize": 500,
-    "corpToken": "[ CORP TOKEN HERE ]",
+    "corpToken": "B1S400",
     "port": null,
-    "swimlane": "[ SWIMLANE HERE ]",
+    "swimlane": "43",
     "fields": [
       "id",
       "title",
