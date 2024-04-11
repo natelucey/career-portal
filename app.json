@@ -2,7 +2,7 @@
   "name": "Career Portal",
   "description": "A Bullhorn Platform SDK app that allows candidates to search for and apply to jobs.",
   "repository": "https://github.com/bullhorn/career-portal",
-  "logo": "http://www.bullhorn.com/wp-content/uploads/2016/08/BH16_logo_orange_blue_stacked.png",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/512px-LEGO_logo.svg.png",
   "keywords": ["bullhorn", "career-portal", "jobs", "angular", "express"],
   "env": {
     "BULLHORN_SWIMLANE": {
